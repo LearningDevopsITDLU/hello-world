@@ -1,2 +1,3 @@
-# hello-world
-Source simple project for testing
+# maven-project
+
+Simple Maven Project
