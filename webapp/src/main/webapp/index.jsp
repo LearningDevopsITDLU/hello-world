@@ -4,7 +4,9 @@
     <title>Simple DevOps Project</title>
 </head>
 <body>
-    
+
+    <%@include file="header.html"%>
+
     <h1>Welcome to the DEVOPS testing website</h1>
 
 </body>
