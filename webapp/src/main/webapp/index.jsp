@@ -9,5 +9,6 @@
 
     <h1>Welcome to the DEVOPS testing website</h1>
 
+    <%@include file="footer.html"%>
 </body>
 </html>
