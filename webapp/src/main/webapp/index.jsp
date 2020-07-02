@@ -35,6 +35,9 @@
         FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
     </h3>
     <h3>CTK40-MMT</h3>
+    <h4>Tran Manh Ha</h4>
+    <h4>Ton That Nhat Huy</h4>
+    <h4>Do Trung Quan</h4>
     </div>
 
     <a href="https://www.facebook.com/TMH.2912">Follow Me</a>
