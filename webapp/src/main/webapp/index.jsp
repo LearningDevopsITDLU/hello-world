@@ -32,7 +32,7 @@
 
     <div>
     <h3>
-        KHOA CÔNG NGHỆ THÔNG TIN - TRƯỜNG ĐẠI HỌC ĐÀ LẠT
+        FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
     </h3>
     </div>
 
