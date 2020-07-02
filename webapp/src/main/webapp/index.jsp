@@ -30,6 +30,12 @@
         </div>
     </div>
 
+    <div>
+    <h3>
+        KHOA CÔNG NGHỆ THÔNG TIN - TRƯỜNG ĐẠI HỌC ĐÀ LẠT
+    </h3>
+    </div>
+
     <a href="https://www.facebook.com/TMH.2912">Follow Me</a>
 
     <%@include file="footer.html"%>
