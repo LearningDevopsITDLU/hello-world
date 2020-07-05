@@ -34,12 +34,14 @@
     <h3>
         FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
     </h3>
-    <p>Project Name: Learn and deploy the DevOps System</p>
-    <h3>CTK40-MMT</h3>
-    <h4>Tran Manh Ha</h4>
-    <h4>Ton That Nhat Huy</h4>
-    <h4>Do Trung Quan</h4>
-    </div>
+    <h4>Project Name: Learn and deploy the DevOps System</h4>
+    <h4>Instructors: Le Gia Cong</h4>
+    <h5>Student Group Perform</h5>
+    <ul>
+        <li>Tran Manh Ha</li>
+        <li>Ton That Nhat Huy</li>
+        <li>Do Trung Quan</li>
+    </ul>
 
     <a href="https://www.facebook.com/TMH.2912">Follow Me</a>
 
