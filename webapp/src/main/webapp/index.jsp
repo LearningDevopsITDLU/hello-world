@@ -42,6 +42,7 @@
         <li>Ton That Nhat Huy</li>
         <li>Do Trung Quan</li>
     </ul>
+    <p>5-7-2020 Automate deployment on Kubernetes with CI/CD Job Success</p>
 
     <a href="https://www.facebook.com/TMH.2912">Follow Me</a>
 
