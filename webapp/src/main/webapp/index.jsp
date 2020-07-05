@@ -62,7 +62,7 @@
                     the DevOps System</p>
             </div>
         </section>
-        
+
         <section class="tools">
             <div class="container">
                 <h2 class="heading">Tools Used</h2>
@@ -108,7 +108,7 @@
         <section class="final">
             <div class="container">
                 <h2 class="heading">Results of Completing The Project</h2>
-                <p>COMPLETE DEVOPS SYSTEM: CI/CD WITH JENKINS, ANSIBLE, DOCKER VÀ KUBERNETES</p>
+                <p>COMPLETE DEVOPS SYSTEM: CI/CD WITH JENKINS, ANSIBLE, DOCKER AND KUBERNETES</p>
                 <img src="./images/final.jpg" alt="" width="100%">
             </div>
         </section>
