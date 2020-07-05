@@ -34,7 +34,7 @@
     <h3>
         FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
     </h3>
-    <p>Đề tài: Tìm hiểu và triển khai hệ thống DevOps</p>
+    <p>Project Name: Learn and deploy the DevOps System</p>
     <h3>CTK40-MMT</h3>
     <h4>Tran Manh Ha</h4>
     <h4>Ton That Nhat Huy</h4>
