@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="vi">
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <title>Simple DevOps Project</title>
@@ -34,6 +34,7 @@
     <h3>
         FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
     </h3>
+    <p>Đề tài: Tìm hiểu và triển khai hệ thống DevOps</p>
     <h3>CTK40-MMT</h3>
     <h4>Tran Manh Ha</h4>
     <h4>Ton That Nhat Huy</h4>
