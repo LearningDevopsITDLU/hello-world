@@ -41,7 +41,7 @@ section:nth-child(odd){
 .heading::after{
     position: absolute;
     content: "";
-    width: 100px;
+    width: 150px;
     height: 3px;
     background: var(--primary-color);
     bottom: -7px;

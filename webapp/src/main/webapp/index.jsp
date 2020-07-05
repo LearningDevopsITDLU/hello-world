@@ -61,8 +61,61 @@
                 <p class="topic-name">Learn and deploy
                     the DevOps System</p>
             </div>
+        </section>
+        
+        <section class="tools">
+            <div class="container">
+                <h2 class="heading">Tools Used</h2>
+                <ul class="tool-list">
+                    <li>
+                        <img src="./images/git.png" alt="">
+                        <p>Git</p>
+                    </li>
+                    <li>
+                        <img src="./images/jenkins.png" alt="">
+                        <p>Jenkins</p>
+                    </li>
+                    <li>
+                        <img src="./images/ansible.png" alt="">
+                        <p>Ansible</p>
+                    </li>
+                    <li>
+                        <img src="./images/docker.png" alt="">
+                        <p>Docker</p>
+                    </li>
+                    <li>
+                        <img src="./images/kubernet.png" alt="">
+                        <p>Kubernetes</p>
+                    </li>
+                </ul>
+                <h2 class="heading">Environment Supports Deployment</h2>
+                <ul class="enviroments">
+                    <li>
+                        <img src="./images/aws.png" alt="">
+                        <p>Amazon Web Services</p>
+                    </li>
+                    <li>
+                        <img src="./images/linux.png" alt="">
+                        <p>Linux Operating Systems</p>
+                    </li>
+                    <li>
+                        <img src="./images/java.png" alt="">
+                        <p>Java Language</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="final">
+            <div class="container">
+                <h2 class="heading">Results of Completing The Project</h2>
+                <p>COMPLETE DEVOPS SYSTEM: CI/CD WITH JENKINS, ANSIBLE, DOCKER VÀ KUBERNETES</p>
+                <img src="./images/final.jpg" alt="" width="100%">
+            </div>
+        </section>
+    </div>
+    </div>
 
-            <%@include file="footer.html"%>
+    <%@include file="footer.html"%>
 </body>
 
 </html>
