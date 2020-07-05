@@ -1,51 +1,68 @@
-<html lang="vi">
+<html lang="en">
+
 <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html">
     <title>Simple DevOps Project</title>
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/setting.css">
+    <link rel="stylesheet" href="./css/main.css">
 </head>
-<style>
-    .image-team{
-        margin: 0 auto;
-    }
-    .image-member{
-        width: 32%;
-        display: inline-block;
-    }
-</style>
+
 <body>
 
     <%@include file="header.html"%>
 
-    <h1>Welcome to the DEVOPS testing website</h1>
-    <h2>My teams</h2>
-    <div class="image-team">
-        <div class="image-member">
-            <img alt="Manh Ha" src="./images/manhha.png" style="width: 100%;">
-        </div>
-        <div class="image-member">
-            <img alt="Nhat Huy" src="./images/nhathuy.png" style="width: 100%;">
-        </div>
-        <div class="image-member">
-            <img alt="Trung Quan" src="./images/trungquan.png" style="width: 100%;">
-        </div>
-    </div>
+    <div class="wrapper">
+        <section class="intro">
+            <div class="container">
+                <h1>FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY</h1>
+                <div>
+                    <img src="./images/logokhoa.png" alt="" width="150">
+                    <img src="./images/logotruong.png" alt="" width="150">
+                </div>
+                <h2>Welcome to the DEVOPS testing website</h2>
+            </div>
+        </section>
+        <section class="members">
+            <div class="container">
+                <h2 class="heading">
+                    Members
+                </h2>
+                <ul>
+                    <li>
+                        <img src="./images/manhha.png" alt="" width="100%">
+                        <p class="member-name">Tran Manh Ha</p>
+                        <p class="member-id">1610114</p>
+                    </li>
+                    <li>
+                        <img src="./images/nhathuy.png" alt="" width="100%">
+                        <p class="member-name">Ton That Nhat Huy</p>
+                        <p class="member-id">1610135</p>
+                    </li>
+                    <li>
+                        <img src="./images/trungquan.png" alt="" width="100%">
+                        <p class="member-name">Do Trung Quan</p>
+                        <p class="member-id">1610186</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="topic">
+            <div class="overlay"></div>
+            <div class="container">
+                <h2>Specialized Project</h2>
+                <p>Name of Project:
+                </p>
+                <p class="topic-name">Learn and deploy
+                    the DevOps System</p>
+            </div>
 
-    <div>
-    <h3>
-        FACULTY OF INFORMATION TECHNOLOGY - DALAT UNIVERSITY
-    </h3>
-    <h4>Project Name: Learn and deploy the DevOps System</h4>
-    <h4>Instructors: Le Gia Cong</h4>
-    <h5>Student Group Perform</h5>
-    <ul>
-        <li>Tran Manh Ha</li>
-        <li>Ton That Nhat Huy</li>
-        <li>Do Trung Quan</li>
-    </ul>
-    <p>5-7-2020 Automate deployment on Kubernetes with CI/CD Job Success</p>
-
-    <a href="https://www.facebook.com/TMH.2912">Follow Me</a>
-
-    <%@include file="footer.html"%>
+            <%@include file="footer.html"%>
 </body>
+
 </html>
